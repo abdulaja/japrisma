@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- untuk fungsi scroll layout -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/expanlist"
+    android:orientation="vertical"
+    android:id="@+id/homefragment">
+    
+    <!-- Framelayout to display Fragments -->
+    <FrameLayout
+        android:id="@+id/frame_home"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--
+        <ListView
+            android:id="@+id/listView1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/expanlist" />
+            -->
+
+        <view
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:scrollMultiplier="0.5"
+            class="com.poliveira.apps.parallaxlistview.ParallaxListView"
+            android:id="@+id/view"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

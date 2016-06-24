@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:2:1-65:12
+	xmlns:android
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:5:5-42
+		INJECTED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.0.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.ms-square:expandableTextView:0.1.4] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.ms-square\expandableTextView\0.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.kanytu:android-parallax-listview:v1.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.github.kanytu\android-parallax-listview\v1.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:23.0.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.commit451:PhotoView:1.2.4] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.commit451\PhotoView\1.2.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:23.0.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:19:22-78
+application
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:21:5-63:19
+MERGED from [com.android.support:support-v4:23.0.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.ms-square:expandableTextView:0.1.4] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.ms-square\expandableTextView\0.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.kanytu:android-parallax-listview:v1.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.github.kanytu\android-parallax-listview\v1.1\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-v4:23.0.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:23:9-45
+	android:theme
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.asismedia.japrisma.Cover
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:26:9-36:20
+	android:screenOrientation
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:30:13-50
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:27:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.asismedia.japrisma.Home
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:37:9-41:20
+	android:label
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:39:13-45
+	android:theme
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:38:13-33
+service#com.asismedia.japrisma.ext.AppNotif
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:44:9-46:38
+	android:enabled
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:46:13-35
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:45:13-41
+receiver#com.asismedia.japrisma.ext.Async
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:48:9-56:20
+	android:process
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:50:13-38
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:49:13-38
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:52:17-79
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:52:25-76
+category#android.intent.category.HOME
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:54:17-73
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:54:27-70
+activity#com.asismedia.japrisma.ext.ZoomImage
+ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:57:9-61:20
+	android:theme
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:59:13-53
+	android:name
+		ADDED from E:\Data-D\AndroidStudioProject\Japrisma1\app\src\main\AndroidManifest.xml:58:13-42
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:30:19-91
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:22:13-58
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] E:\Data-D\AndroidStudioProject\Japrisma1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:23:13-66

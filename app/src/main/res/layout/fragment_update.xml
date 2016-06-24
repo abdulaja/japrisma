@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/expanlist" >
+    
+    <!-- Framelayout to display Fragments -->
+    <FrameLayout
+        android:id="@+id/frame_update"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/updTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@color/list_background_pressed"
+        android:textColor="@color/list_item_title"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:textSize="15sp"
+        android:text="@string/update_title"/>
+
+    <TextView
+        android:id="@+id/updStat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/updTitle"
+        android:layout_marginTop="30dp"
+        android:padding="10dp"
+        android:textSize="@dimen/area"
+        android:text="@string/update_status"/>
+
+    <ImageView
+        android:id="@+id/ibCheckup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/updStat"
+        android:src="@drawable/cfu" />
+
+    <ImageView
+        android:id="@+id/ibCheckupd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/updStat"
+        android:src="@drawable/cfud" />
+
+    <ImageView
+        android:id="@+id/ibUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/ibCheckup"
+        android:src="@drawable/update" />
+
+    <ImageView
+        android:id="@+id/ibUpdated"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/ibCheckup"
+        android:src="@drawable/updated" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/bottom_ads">
+    </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

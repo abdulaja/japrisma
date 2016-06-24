@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tv_subarea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:text="Hokkaido"
+        android:textColor="#FFF"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/spasi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="3dp"
+        android:paddingRight="3dp"
+        android:text=" - "
+        android:textColor="#FFF"
+        android:textSize="13sp"
+        android:layout_toRightOf="@+id/tv_subarea"  />
+
+    <TextView
+        android:id="@+id/tv_area"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hokkaido"
+        android:textColor="#FFF"
+        android:textSize="13sp"
+        android:layout_toRightOf="@+id/spasi" />
+
+</RelativeLayout>

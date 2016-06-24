@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Abdulaja\.gradle\caches\modules-2\files-2.1\com.purplebrain.adbuddiz.sdk\AdBuddiz-Java\3.1.2\f527ffe6f98f86204199baf55e0471a1a8a069f4\AdBuddiz-Java-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f527ffe6f98f86204199baf55e0471a1a8a069f4">
+        <dex dex="E:\Data D\AndroidStudioProject\Japrisma1\app\build\intermediates\pre-dexed\debug\AdBuddiz-Java-3.1.2-27293d93f5a6de7332a7fd3f8d98010863adfc90.jar" />
+    </item>
+
+</items>

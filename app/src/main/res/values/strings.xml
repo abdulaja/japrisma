@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_codename">Japrisma</string>
+    <string name="app_name">Japanese Tourism Information</string>
+    <string name="version">1.4</string>
+    <string name="develpoment">&#169; AsisMedia</string>
+    <string name="uploaded">Uploaded by AngkasaMedia</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <string name="update_title">Data Update</string>
+    <string name="update_status">Please Click \"Check for Update\" First</string>
+    <string name="btnUpdStat">Check Update</string>
+    <string name="btnUpdate">Update Data</string>
+
+    <string name="chelp">
+        * Use the slider menu at the left to move from one menu to another menu.\n\n
+
+        * Search\nUsed to search for a desired tour of the three categories (Touristic Spot, Touristic Area, and Event).\n\n
+
+        * Home\nUsed to display the entire main menu available on application.\n\n
+
+        * Touristic Spot\nUsed to display a list of tourist places.\n\n
+
+        * Touristic Area\nUsed to display a list of regional tourism.\n\n
+
+        * Event\nUsed to display a list of special events or festivities.\n\n
+
+        * Help\nUsed to see how to use the application.\n\n
+
+        * About\nUsed to display a brief description of the application and the developer.\n\n
+
+        * Update\nUsed to see the updates and update data. (This function requires internet connection)\n\n
+
+        ** Picture/photo tours will be downloaded automatically when it is first displayed and stored in the cache of an application on a smartphone.
+        Suggested opening search menu when first using the application so that all images can be downloaded.
+        Make sure the internet connection is available.\n
+
+    </string>
+    <string name="cbantuan">
+        * Gunakan Menu geser di bagian kiri untuk berpindah dari satu menu ke menu lainnya.\n\n
+
+        * Search\nDigunakan untuk mencari wisata yang diinginkan dari ketiga kategori (Touristic Spot, Touristic Area, and Event).\n\n
+
+        * Home\nDigunakan untuk menampilkan keseluruhan menu utama yang tersedia pada aplikasi.\n\n
+
+        * Touristic Spot\nDigunakan untuk menampilkan daftar wisata tempat.\n\n
+
+        * Touristic Area\nDigunakan untuk menampilkan daftar wisata daerah.\n\n
+
+        * Event\nDigunakan untuk menampilkan daftar wisata acara khusus atau perayaan.\n\n
+
+        * Help\nDigunakan untuk melihat cara penggunaan aplikasi.\n\n
+
+        * About\nDigunakan untuk menampilkan deskripsi singkat aplikasi dan tentang pengembang.\n\n
+
+        * Update\nDigunakan untuk melihat dan melakukan pembaruan data. (Fungsi ini membutuhkan koneksi data internet)\n\n
+
+        ** Gambar/foto wisata akan diunduh secara otomatis saat pertama kali ditampilkan dan tersimpan dalam cache aplikasi di smartphone.
+        Disarankan membuka menu search saat pertama menggunakan aplikasi agar semua gambar dapat terunduh.
+        Pastikan koneksi internet tersedia.\n
+
+    </string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Search</item>
+        <item>Touristic Spot</item>
+        <item>Touristic Area</item>
+        <item>Event</item>
+        <item>Help</item>
+        <item>About</item>
+        <item>Update</item>
+        <item>Cek</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_search</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_help</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_refresh</item>
+        <item>@drawable/ic_refresh</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="tentang">Japanese Tourism Information application is a free application. 
+        Tourism data obtained from the Japan National Tourism Organization. 
+        In this application, the data shown is available in two languages, English and Indonesian.</string>
+
+    <string name="pengembang">11.11.5504\n
+        Muhammad Abdul Azis\n
+        STMIK Amikom Yogyakarta</string>
+        
+    <string name="title_activity_cover">Japrisma</string>
+    <string name="jnto">by Japan National Tourism Organization</string>
+
+    <string name="bottom_ads">ca-app-pub-9097661885495269/7098998436</string>
+    <string name="ads_detail">ca-app-pub-9097661885495269/6530262037</string>
+    <string name="home_ads">ca-app-pub-9097661885495269/6338458836</string>
+    <string name="title_activity_zoom_image">ZoomImage</string>
+    <string name="title_activity_cover2">Cover2</string>
+
+</resources>
